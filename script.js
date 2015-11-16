@@ -1,5 +1,4 @@
 function solution1(A) {
-
     var minNum = 1,
         sortArr = A.sort();
     sortArr.forEach(function (item, i, arr) {
